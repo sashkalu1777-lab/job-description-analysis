@@ -1,3 +1,5 @@
+ast
+bs4
 chromadb
 dotenv
 langchain
@@ -8,4 +10,6 @@ langchain-openai
 langchain-text-splitters
 langfuse
 pandas
+scikit-learn
 tiktoken
+wordcloud
