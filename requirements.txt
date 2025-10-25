@@ -13,6 +13,7 @@ langfuse
 nltk
 pandas
 rouge
+rouge_score
 scikit-learn
 scipy
 tiktoken
