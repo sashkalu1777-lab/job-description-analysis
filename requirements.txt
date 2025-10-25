@@ -1,4 +1,5 @@
 ast
+bert-score
 bs4
 chromadb
 dotenv
@@ -9,7 +10,11 @@ langchain-community
 langchain-openai
 langchain-text-splitters
 langfuse
+nltk
 pandas
+rouge
 scikit-learn
+scipy
 tiktoken
+transformers
 wordcloud
