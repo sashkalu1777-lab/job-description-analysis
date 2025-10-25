@@ -12,6 +12,7 @@ langchain-text-splitters
 langfuse
 nltk
 pandas
+pypdf
 rouge
 rouge_score
 scikit-learn
