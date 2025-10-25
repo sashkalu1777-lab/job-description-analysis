@@ -1,0 +1,183 @@
+---CALL HOST AGENT---
+---CHECK TASK RELEVANCE---
+---DECISION: This is a job advertisement analysis task. ---
+host_agent
+Hello Alexandra! I'd be happy to help you analyze the job advertisements. Please provide the details of the job ads you're interested in, and let me know what specific aspects you'd like to focus on (e.g., job requirements, qualifications, company culture, etc.).
+---CALL INDUSTRY AGENT---
+industry_agent
+{
+    "job_title": ["Driver / Tour Guide for Coach & 4WD Coach Tours"],
+    "skills": ["Driving", "Minor coach maintenance", "Cleaning", "Guiding", "Commentating", "Cooking", "Problem solving", "Public speaking", "Navigation", "Mechanical knowledge", "Camping", "Group cooking"],
+    "responsibilities": ["Conducting 1-20 Day Tours", "Driving", "Performing minor coach maintenance", "Cleaning", "Guiding and commentating", "Cooking for groups"],
+    "requirements": ["Sense of humour and engaging personality", "Initiative and problem solving skills", "Confidence in public speaking", "Current manual HR drivers licence with F endorsement", "Safe driving record", "Clear Criminal History", "Experience in related field", "First Aid Training", "Good navigation skills in remote and city areas"],
+    "classification": ["Hospitality & Tourism"],
+    "salary": ["$300 - $350 Per day + Super"],
+    "location": ["Perth"],
+    "workType": ["Casual/Vacation"]
+}
+---CALL EVALUATE AGENT---
+evaluate_agent
+{
+    "skills_evaluate": ["Skills are well-detailed, but could include 'Customer Service' to emphasize interaction with clients."],
+    "responsibilities_evaluate": ["Responsibilities are clear, but could explicitly mention 'Ensuring the safety of passengers' to highlight safety importance."],
+    "requirements_evaluate": ["Requirements are comprehensive. Consider adding 'Multilingual abilities' as a plus to cater to diverse tourists."],
+    "classification_evaluate": ["Classification is appropriate, but could be expanded to include 'Travel & Tourism' to attract more relevant candidates."],
+    "salary_evaluate": ["Salary range is specified. It would be beneficial to clarify if tips are included or expected on top of the salary."],
+    "location_evaluate": ["Location is specified. Additional information about potential travel requirements within the job could be useful."],
+    "workType_evaluate": ["Work type is mentioned. Clarifying the expected number of working days per week or month would help candidates understand job frequency."]
+}
+
+---END QUESTION---
+---CALL HOST AGENT---
+---CHECK TASK RELEVANCE---
+---DECISION: This is a job advertisement analysis task. ---
+host_agent
+Hello Alexandra! I'd be happy to help you analyze the job advertisements. Please provide the details of the job advertisements you'd like to discuss, and let me know what specific aspects you want to focus on (e.g., job requirements, qualifications, company culture, etc.).
+---CALL INDUSTRY AGENT---
+industry_agent
+{
+    "job_title": ["Storepersons Required"],
+    "skills": ["time management", "prioritise tasks", "fast and accurate typing", "coordinating information flow", "developing relationships", "positive energy", "efficient", "reliable"],
+    "responsibilities": ["liaising with customers", "answering phone calls and emails", "providing prices and taking down details", "multitasking in a busy environment", "following warehouse processes and procedures", "general pick packing duties", "instructing staff for customer orders"],
+    "requirements": ["excellent time management", "ability to prioritise tasks", "fast and accurate typing skills", "forklift ticket desired but not essential"],
+    "classification": ["Manufacturing, Transport & Logistics"],
+    "salary": [],
+    "location": ["Sydney"],
+    "workType": ["Full Time"]
+}
+---CALL EVALUATE AGENT---
+evaluate_agent
+{
+    "skills_evaluate": ["Skills are well-listed but could include specific software or systems used in the warehouse for better clarity."],
+    "responsibilities_evaluate": ["Responsibilities are clear, but could explicitly mention any teamwork or collaboration with other departments."],
+    "requirements_evaluate": ["Requirements are relevant but could specify the level of experience required in a similar role, and clarify if the forklift ticket is often necessary."],
+    "classification_evaluate": ["Classification is specified, but could be more detailed by including subcategories related to the specific type of storeperson role (e.g., inventory management, logistics coordination)."],
+    "salary_evaluate": ["Salary details are missing, which is crucial for attracting the right candidates. Suggest adding a salary range or stating that it's competitive based on experience."],
+    "location_evaluate": ["Location is mentioned, but could benefit from specifying the area in Sydney or whether remote work options are available."],
+    "workType_evaluate": ["Work type is mentioned, but could include more details about the expected working hours or shifts."]
+}
+
+---END QUESTION---
+---CALL HOST AGENT---
+---CHECK TASK RELEVANCE---
+---DECISION: This is a job advertisement analysis task. ---
+host_agent
+Hello Alexandra! I'd be happy to help you analyze the job advertisements you have. Please provide the details of the job advertisements you'd like to discuss, and let me know what specific aspects you want to focus on (e.g., job requirements, qualifications, company culture, etc.).
+---CALL INDUSTRY AGENT---
+industry_agent
+{
+    "job_title": ["Mechanical Fitter"],
+    "skills": ["Mechanical fitting", "Forklift operation", "Mining equipment handling", "Hydraulics"],
+    "responsibilities": ["Stripping longwall mining shears", "Washing equipment", "Assembling equipment"],
+    "requirements": ["Experience with mining equipment/gearboxes and Hydraulics", "Relevant trade certificate", "Good written and verbal communication skills", "Valid work rights in Australia", "Forklift Licence (LF)", "Dogman Ticket (DG)"],
+    "classification": ["Trades & Services"],
+    "salary": ["$37.50 p/h + penalty rates"],
+    "location": ["Wollongong, Illawarra & South Coast"],
+    "workType": ["Contract/Temp"]
+}
+---CALL EVALUATE AGENT---
+evaluate_agent
+{
+    "skills_evaluate": ["Add specific levels of proficiency or years of experience required for each skill"],
+    "responsibilities_evaluate": ["Include more detailed descriptions of each responsibility", "Specify the frequency or conditions under which these tasks are performed"],
+    "requirements_evaluate": ["Mention if there are any preferred but not required qualifications", "Specify if experience in a similar role is necessary"],
+    "classification_evaluate": ["Include subcategories to help potential applicants better understand the specific field or specialization"],
+    "salary_evaluate": ["Provide a range instead of a single rate to accommodate varying levels of experience", "Include information about other benefits or allowances"],
+    "location_evaluate": ["Add more details about the specific work environment or site location"],
+    "workType_evaluate": ["Specify the expected duration of the contract or if there's potential for permanent employment"]
+}
+
+---END QUESTION---
+---CALL HOST AGENT---
+---CHECK TASK RELEVANCE---
+---DECISION: This is a job advertisement analysis task. ---
+host_agent
+Hello Alexandra! I'd be happy to help you analyze the job advertisements. Please provide the details of the job ads you're interested in, and let me know what specific aspects you'd like to focus on (e.g., job requirements, qualifications, company culture, etc.).
+---CALL INDUSTRY AGENT---
+industry_agent
+{
+    "job_title": ["Casual Educators in Community Centre needed"],
+    "skills": ["initiative", "teamwork"],
+    "responsibilities": ["support local community", "support families", "support wellbeing of children", "early learning"],
+    "requirements": ["Certificate III", "Diploma", "experience as educator"],
+    "classification": ["Education & Training"],
+    "salary": [],
+    "location": ["Melbourne", "Northern Suburbs", "Coburg"],
+    "workType": ["Casual/Vacation"]
+}
+---CALL EVALUATE AGENT---
+evaluate_agent
+{
+    "skills_evaluate": ["Add specific skills related to early childhood education, such as 'childcare management' or 'curriculum planning'."],
+    "responsibilities_evaluate": ["Detail specific tasks involved in supporting the local community, families, and children's wellbeing."],
+    "requirements_evaluate": ["Specify years of experience required and any preferred skills or certifications."],
+    "classification_evaluate": ["Include more specific sub-categories if applicable, such as 'Childcare' or 'Teacher's Aide'."],
+    "salary_evaluate": ["Salary information is missing. Suggest adding a salary range or stating that it's competitive based on experience."],
+    "location_evaluate": ["Location is clear."],
+    "workType_evaluate": ["Work type is specified as Casual/Vacation. Consider specifying expected hours per week or if there are peak times."]
+}
+
+---END QUESTION---
+---CALL HOST AGENT---
+---CHECK TASK RELEVANCE---
+---DECISION: This is a job advertisement analysis task. ---
+host_agent
+Hello Alexandra! I'd be happy to help you analyze the job advertisements. Please provide the details of the job advertisements you'd like to discuss, and let me know what specific aspects you want to focus on (e.g., job requirements, qualifications, company culture, etc.).
+---CALL INDUSTRY AGENT---
+industry_agent
+{
+    "job_title": ["Business Liaison Specialist"],
+    "skills": [],
+    "responsibilities": [
+        "Implement strategies to assist Bayside Town Centres to thrive",
+        "Actively foster strong connections between businesses and the broader community",
+        "Develop customised training opportunities for Bayside Businesses",
+        "Liaise and work in partnership with relevant stakeholders and Council services to support town centre improvement action plans",
+        "Provide support and advice to existing and new business seeking to develop in the area",
+        "Identify and develop partnerships to support growth opportunities",
+        "Promote the positive and collaborative culture and values of the organisation",
+        "Work in collaboration with and assist the team, manager and other key stakeholders to achieve business unit goals"
+    ],
+    "requirements": [
+        "Tertiary or other qualifications and/or equivalent experience in a relevant field",
+        "Current Drivers Licence Class C"
+    ],
+    "classification": ["Government & Defence"],
+    "salary": ["$81,555.95 - $91,342.67 per annum plus 9.5% superannuation"],
+    "location": ["Sydney"],
+    "workType": ["Full Time"]
+}
+---CALL EVALUATE AGENT---
+evaluate_agent
+{
+    "skills_evaluate": [
+        "Missing specific skills",
+        "List specific skills such as communication, project management, stakeholder engagement, or strategic planning"
+    ],
+    "responsibilities_evaluate": [
+        "Well-defined",
+        "Consider adding measurable outcomes or specific projects to give candidates a clearer understanding of their potential impact"
+    ],
+    "requirements_evaluate": [
+        "Broadly defined",
+        "Specify the type of qualifications needed, such as a degree in business administration, urban planning, or related fields. Also, consider including experience requirements such as 'minimum 3 years in a similar role'."
+    ],
+    "classification_evaluate": [
+        "Appropriate",
+        "No changes needed"
+    ],
+    "salary_evaluate": [
+        "Clearly stated",
+        "Include information on how often the salary is reviewed and potential for increases"
+    ],
+    "location_evaluate": [
+        "Clearly stated",
+        "Include more details about the work environment or office location benefits"
+    ],
+    "workType_evaluate": [
+        "Clearly stated",
+        "Specify if there are flexible working options such as remote work days or flexible hours"
+    ]
+}
+
+---END QUESTION---
